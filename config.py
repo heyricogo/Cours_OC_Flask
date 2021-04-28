@@ -8,3 +8,4 @@ FB_APP_ID = 557755904711507
 
 basedir = os.path.abspath(os.path.dirname(__file__))
 SQLALCHEMY_DATABASE_URI = 'sqlite:///' + os.path.join(basedir, 'app.db')
+# Test de GitKraken
